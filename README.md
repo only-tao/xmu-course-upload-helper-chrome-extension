@@ -17,6 +17,10 @@
 
 由于 course 更换域名 （由 course.xmu.edu.cn 更换为 course2.xmu.edu.cn），会导致插件无法正常挂载与使用。请参考下文更新最新版插件即可继续使用，参见 [#2](https://github.com/kirainmoe/xmu-course-upload-helper-chrome-extension/issues/2).
 
+#### 2022/3/20更新
+
+在course的"操作系统"上不能使用的问题已经解决
+
 ## 这是什么？
 
 众所周知在 2021 年之后，Chrome/Firefox/Edge 都停止了对 Flash 的支持，而你厦这个老旧的 course 平台上传个文件还得用 Flash. 这就造成了以上浏览器的用户今年没法正常提交作业了。而学校给出的解决方案是：
@@ -70,8 +74,8 @@
 ### 在 Microsoft Edge 上使用
 
 - 首先，[下载](https://github.com/kirainmoe/xmu-course-upload-helper-chrome-extension/archive/main.zip)并解压这个 Repo
-  - 你会得到一个名为 xmu-course-upload-helper-chrome-extension-main 的文件夹
 
+  - 你会得到一个名为 xmu-course-upload-helper-chrome-extension-main 的文件夹
 - 打开 Edge，在地址栏中输入 `edge://extensions` 并回车
 - 打开左下角的 “开发人员模式”
 - 点击右上角的 “加载已解压的拓展”
